@@ -3,7 +3,7 @@
 const foo = x => {
 	y++;
 	z = x * y;
-}
+)
 
 const bar = (curX, curY) => {
 	let [origY, origZ] = [y, z];
