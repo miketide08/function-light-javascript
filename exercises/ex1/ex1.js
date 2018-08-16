@@ -1,5 +1,4 @@
 "use strict";
-
 const foo = x => {
 	y++;
 	z = x * y;
