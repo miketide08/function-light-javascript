@@ -30,7 +30,7 @@ Download or clone the repository and take a look at the many exampple JavaScript
 
 ## Authors
 
-* **Michael Brown** 
+* **Michael Brown** - Shout out to the great Kyle Simpson and his course for helping me complete the exercises.
 
 ## Acknowledgments
 
