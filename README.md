@@ -38,4 +38,4 @@ Download or clone the repository and take a look at the many exampple JavaScript
   Functionl-Light JavaScript v2: https://frontendmasters.com/courses/functional-javascript-v2/
 
 * Here is a link to Kyle Simpsons' functional jaascript programming book on GitHub. It follows the course but goes into greater detail.
-  Functional Light JavaScript by Kyle Simpson: https://github.com/getify/Functional-Light-JS
+  Functional-Light JavaScript by Kyle Simpson: https://github.com/getify/Functional-Light-JS
