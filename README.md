@@ -13,7 +13,7 @@ found below in the Acknowledgements section.
 
 ## Getting Started
 
-Clone or fork a copy of this repository to a local directory. The JavaScript examples can be found in the exercises folder.
+Clone or fork a copy of this repository to a local directory. The JavaScript examples can be found in the exercises folder. Each exercise is included in its own folder along with a read me file, which explains the goals of the individual exercise. Good luck! 
 
 ### Prerequisites
 
