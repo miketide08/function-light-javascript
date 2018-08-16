@@ -9,7 +9,7 @@ Also covered in the course were the map, filter, and reduce functions as well as
 transducing and lazy arrays.
 
 I completed the solutions in ES6 syntax unlike the explanations in the course. A link to the course can be 
-found below in the Acknowledgement section.
+found below in the Acknowledgements section.
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ Download or clone the repository and take a look at the many exampple JavaScript
 ## Acknowledgments
 
 * These examples were completed for educational purposes only using Kyle Simpsons' course:
-  Functionl-Light JavaScript v2 - https://frontendmasters.com/courses/functional-javascript-v2/
+  Functionl-Light JavaScript v2: https://frontendmasters.com/courses/functional-javascript-v2/
 
 * Here is a link to Kyle Simpsons' functional jaascript programming book on GitHub. It follows the course but goes into greater detail.
   Functional Light JavaScript by Kyle Simpson: https://github.com/getify/Functional-Light-JS
